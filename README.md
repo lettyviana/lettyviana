@@ -33,4 +33,4 @@ Compartilharei aqui alguns projetos desse programa em si e ideias de outros site
 
 ## 📲 **Algumas das minhas redes sociais:** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leticiaviana-trad-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
