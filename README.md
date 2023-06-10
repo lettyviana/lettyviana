@@ -17,6 +17,7 @@ Compartilharei aqui alguns projetos desenvolvidos.
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
+- [x] [Meu primeiro site portfólio](https://portfolio-lettyviana.vercel.app/)<br />
 - [x] [Decodificador de textos ((Des)Criptografe suas mensagens) - Programa ONE](https://lettyviana.github.io/decodificador-de-mensagens/)<br />
 - [x] [Descubra seu IMC - Site com Calculadora de IMC](https://lettyviana.github.io/site-calculadora-imc/)<br />
 
