@@ -11,7 +11,6 @@ Compartilharei aqui alguns projetos desenvolvidos.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" alt="JavaScript" align="center" class="javascript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="CSS3" align="center" class="css"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" alt="Git" align="center" class="git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px" alt="GitHub" color="#222" align="center" class="github"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" alt="NodeJS" align="center" class="nodejs"/>
     
 </div><br />
