@@ -28,7 +28,7 @@ Compartilharei aqui alguns projetos desenvolvidos.
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Continuar os cursos do programa ONE.
+- [ ] Challenge AluraGeek - agora estou pesquisando soluções para a API.
 
 #
 
