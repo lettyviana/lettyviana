@@ -1,7 +1,10 @@
 ## **Olá, terráqueos, eu sou a Letty!** 🛸
 
-Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos e, graças ao meu namorado, comecei a ter mais contato com programação. Já comecei a fazer alguns programas/cursos gratuitos para aprender o básico de HTML e CSS, como o freeCodeCamp, e, atualmente, faço parte da turma 5 do programa ONE da Oracle com a Alura. Tem sido uma experiência incrível e já estou maravilhada com tudo o que conseguimos fazer.
-Compartilharei aqui alguns projetos desenvolvidos.
+Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos.
+Por influência do meu namorado, comecei a ter mais contato com programação.
+Já conclui a Certificação em Web Design Responsivo do FreeCodeCamp, na qual comecei a aprender o básico de HTML e CSS. Comecei o programa ONE da Oracle com a Alura, onde desenvolvi ainda mais essas habilidades e comecei a ter um contato maior com JavaScript, Node.js, Git, GitHub, bem como algumas soft skills. O programa tem sido uma experiência incrível, me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código.
+Atualmente, consegui adquirir um curso da Devaria e pegarei firme a partir daí.
+Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 
 #
 
