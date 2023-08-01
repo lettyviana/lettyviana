@@ -31,7 +31,7 @@ Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Challenge AluraGeek - agora estou pesquisando soluções para a API.
+- [ ] Challenge AluraGeek.
 
 #
 
