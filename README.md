@@ -23,6 +23,7 @@ Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
+- [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
 - [x] [Challenge portfólio pessoal - Programa ONE](https://lettyviana.github.io/challenge-portfolio-alura/)<br />
 - [x] [Meu primeiro site portfólio](https://portfolio-lettyviana.vercel.app/)<br />
 - [x] [Decodificador de textos ((Des)Criptografe suas mensagens) - Programa ONE](https://lettyviana.github.io/decodificador-de-mensagens/)<br />
