@@ -10,12 +10,12 @@ Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 
 ## 👩‍💻 **Estou aprendendo:**
 <div style="display: inline_block"><br />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="HTML5" align="center" class="html"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" alt="JavaScript" align="center" class="javascript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="CSS3" align="center" class="css"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" alt="Git" align="center" class="git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" alt="NodeJS" align="center" class="nodejs"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="HTML5" align="center" alt="html"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" alt="JavaScript" align="center" alt="javascript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="CSS3" align="center" alt="css"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" alt="Git" align="center" alt="git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" alt="NodeJS" align="center" alt="nodejs"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px" alt="HTML5" align="center" alt="react"/>
     
 </div><br />
 
