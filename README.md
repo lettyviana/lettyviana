@@ -33,7 +33,7 @@ Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Conclusão da formação de React do Programa ONE.
+- [ ] Challenge Aluraflix.
 
 #
 
