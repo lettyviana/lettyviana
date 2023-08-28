@@ -45,4 +45,4 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 ## 📲 **Contato:** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=_blank)](https://www.linkedin.com/in/leticiaviana-trad-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
