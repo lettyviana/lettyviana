@@ -2,9 +2,9 @@
 
 Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/>
 Por influência do meu namorado, comecei a ter mais contato com programação. <br/>
-Já conclui a Certificação em Web Design Responsivo do FreeCodeCamp, na qual comecei a aprender o básico de HTML e CSS. Comecei o programa ONE da Oracle com a Alura, onde desenvolvi ainda mais essas habilidades e comecei a ter um contato maior com JavaScript, Node.js, Git, GitHub, bem como algumas soft skills. O programa tem sido uma experiência incrível, me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
-Atualmente, consegui adquirir um curso da Devaria e pegarei firme a partir daí. <br/>
-Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
+Já conclui a Certificação em Web Design Responsivo do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. Conclui a especialização em Front-End e ReactJs do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, Git, GitHub, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa tem sido uma experiência incrível, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
+Atualmente, consegui adquirir e entrar na formação da Escola de Programação Devaria, onde estou aprofundando ainda mais meus conhecimentos em JavaScript, TypeScript, NodeJs, ReactJs, Nest, entre outros. <br/>
+Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas formações.
 
 #
 
@@ -43,6 +43,6 @@ Compartilharei aqui alguns projetos desenvolvidos em virtude desses cursos.
 
 #
 
-## 📲 **Algumas das minhas redes sociais:** 
+## 📲 **Contato:** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
