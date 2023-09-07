@@ -9,7 +9,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 👩‍💻 **Estou aprendendo:**
-<div style="display: inline_block"><br />
+<div style="display: inline_block" align="center"><br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="HTML5" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" alt="JavaScript" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="CSS3" align="center"/>
@@ -20,8 +20,10 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
     
     
 </div><br />
-
+<div align="center">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lettyviana&layout=compact&langs_count=3&theme=midnight-purple)](https://github.com/lettyviana/github-readme-stats)
+</div>
 
 #
 
@@ -40,11 +42,17 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 #
 
+<div align="center">
+    
 ![Letty's GitHub stats](https://github-readme-stats.vercel.app/api?username=lettyviana&show_icons=true&theme=midnight-purple)
+</div>
 
 #
 
 ## 📲 **Contato:** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)<br />
+<div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev) 
 [![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://portfolio-lettyviana.vercel.app/)
+</div>
