@@ -28,6 +28,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 ## 🖱️ **O que já consegui desenvolver:**
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
 - [x] [Challenge portfólio pessoal - Programa ONE](https://lettyviana.github.io/challenge-portfolio-alura/)<br />
+- [x] [Meu primeiro portfólio pessoal - desenvolvido em HTML, CSS e JS](https://portfolio-lettyviana.vercel.app/)<br />
 - [x] [Decodificador de textos ((Des)Criptografe suas mensagens) - Programa ONE](https://lettyviana.github.io/decodificador-de-mensagens/)<br />
 - [x] [Descubra seu IMC - Site com Calculadora de IMC](https://lettyviana.github.io/site-calculadora-imc/)<br />
 
@@ -35,7 +36,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 ## 🖥️ **Estou trabalhando atualmente em:**
 - [ ] Challenge Aluraflix.
-- [ ] Formação Full Stack Devaria.
+- [ ] Formação Full Stack da Devaria.
 
 #
 
@@ -45,4 +46,5 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 ## 📲 **Contato:** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)<br />
+[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://portfolio-lettyviana.vercel.app/)
