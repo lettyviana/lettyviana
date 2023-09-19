@@ -28,6 +28,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
+- [x] [Challenge Aluraflix - Programa ONE: Faz Seu Flix](https://faz-seu-flix.vercel.app/)<br />
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
 - [x] [Challenge portfólio pessoal - Programa ONE](https://lettyviana.github.io/challenge-portfolio-alura/)<br />
 - [x] [Meu primeiro portfólio pessoal - desenvolvido em HTML, CSS e JS](https://portfolio-lettyviana.vercel.app/)<br />
@@ -37,7 +38,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Challenge Aluraflix.
+- [ ] Projetos para particar.
 - [ ] Formação Full Stack da Devaria.
 
 #
