@@ -38,7 +38,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Projetos para particar.
+- [ ] Projetos para praticar.
 - [ ] Formação Full Stack da Devaria.
 
 #
