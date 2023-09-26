@@ -28,7 +28,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
-- [x] [Challenge Aluraflix - Programa ONE: Faz Seu Flix](https://faz-seu-flix.vercel.app/)<br />
+- [x] [Faz Seu Flix (Challenge Aluraflix - Programa ONE)](https://faz-seu-flix.vercel.app/){:target="_blank"}<br />
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
 - [x] [Challenge portfólio pessoal - Programa ONE](https://lettyviana.github.io/challenge-portfolio-alura/)<br />
 - [x] [Meu primeiro portfólio pessoal - desenvolvido em HTML, CSS e JS](https://portfolio-lettyviana.vercel.app/)<br />
@@ -38,9 +38,14 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖥️ **Estou trabalhando atualmente em:**
-- [ ] Projetos para praticar.
-- [ ] Formação Full Stack da Devaria.
+### **Projetos para praticar:**
+  1. [ ] Meu novo portfólio em React.
+  1. [ ] Aplicação para exibir informações sobre filmes consumindo a API do TMDB.
+  1. [ ] Aplicação de e-commerce com API criada por mim.
 
+### **Formações:**
+- [ ] Aguardando próximos passos do Programa ONE.
+- [ ] Formação Full Stack da Devaria.
 #
 
 <div align="center">
@@ -54,6 +59,6 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 <div align="center">
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev) 
-[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://portfolio-lettyviana.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev){:target="_blank"} 
+[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://portfolio-lettyviana.vercel.app/){:target="_blank"}
 </div>
