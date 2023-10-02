@@ -40,7 +40,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 ## 🖥️ **Estou trabalhando atualmente em:**
 ### **Projetos para praticar:**
   1. [ ] Meu novo portfólio em React.
-  1. [ ] Aplicação para exibir informações sobre filmes consumindo a API do TMDB.
+  1. [ ] Aplicação consumindo a API do TMDB.
   1. [ ] Aplicação de e-commerce com API criada por mim.
 
 ### **Formações:**
