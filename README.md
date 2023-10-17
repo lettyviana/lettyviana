@@ -2,8 +2,9 @@
 
 Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/>
 Por influência do meu namorado, comecei a ter mais contato com programação. <br/>
-Já conclui a <a href="https://www.freecodecamp.org/certification/lettyviana/responsive-web-design">Certificação em Web Design Responsivo</a> do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. Conclui a especialização em <a href="https://cursos.alura.com.br/user/letisviana">Front-End e ReactJs</a> do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, Git, GitHub, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa tem sido uma experiência incrível, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
-Atualmente,estou participando da formação da Escola de Programação Devaria, onde estou aprofundando ainda mais meus conhecimentos em JavaScript, TypeScript, NodeJs, ReactJs, NextJs, Nest, entre outros. <br/>
+Já conclui a <a href="https://www.freecodecamp.org/certification/lettyviana/responsive-web-design">Certificação em Web Design Responsivo</a> do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. Conclui a especialização em <a href="https://cursos.alura.com.br/emprega-one/profile/letisviana">Front-End e ReactJs</a> do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa foi uma experiência incrível e uma baita porta de entrada, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
+Atualmente, estou fazendo a trilha do AlumniONE, que abrange o SQL com MySQL Server, Oracle Cloud Infrastructure e Python, DataScience e Oracle Analytics. 
+Estou fazendo também a formação Full-Stack da Escola de Programação Devaria, onde estou aprofundando ainda mais meus conhecimentos em JavaScript, TypeScript, NodeJs, ReactJs, NextJs, Nest, entre outros. <br/>
 Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas formações, bem como outros projetos pessoais.
 
 #
@@ -13,12 +14,14 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" alt="HTML5" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30px" alt="JavaScript" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" alt="CSS3" align="center"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" alt="Git" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" alt="NodeJS" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px" alt="ReactJs" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" alt="TypeScript" align="center"/>
-    
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30px" alt="Sass" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30px" alt="MongoDB" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30px" alt="MySQL" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height="30px" alt="NestJS" align="center"/>
+        
 </div><br />
 <div align="center">
     
@@ -40,11 +43,10 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 ## 🖥️ **Estou trabalhando atualmente em:**
 ### **Projetos para praticar:**
   1. [ ] Meu novo portfólio em React.
-  1. [ ] Aplicação consumindo a API do TMDB.
-  1. [ ] Aplicação de e-commerce com API criada por mim.
 
 ### **Formações:**
-- [ ] Aguardando próximos passos do Programa ONE.
+- [x] Especialização em Front-End com React pelo Programa Oracle Next Education.
+- [ ] Banco de Dados SQL do AlumniONE.
 - [ ] Formação Full Stack da Devaria.
 #
 
