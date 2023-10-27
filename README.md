@@ -31,7 +31,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
-- [x] [Meu primeiro portfólio em ReactJs/TypeScript e Sass)]([https://faz-seu-flix.vercel.app/](https://lettyviana-frontend-dev.vercel.app/))<br />
+- [x] [Meu primeiro portfólio em ReactJs/TypeScript e Sass](https://lettyviana-frontend-dev.vercel.app/)<br />
 - [x] [Faz Seu Flix (Challenge Aluraflix - Programa ONE)](https://faz-seu-flix.vercel.app/)<br />
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
 - [x] [Challenge portfólio pessoal - Programa ONE](https://lettyviana.github.io/challenge-portfolio-alura/)<br />
@@ -59,5 +59,5 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 <div align="center">
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
-[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://faz-seu-flix.vercel.app/](https://lettyviana-frontend-dev.vercel.app/)
+[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://lettyviana-frontend-dev.vercel.app/)
 </div>
