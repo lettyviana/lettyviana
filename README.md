@@ -25,12 +25,13 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 </div><br />
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lettyviana&layout=compact&langs_count=3&theme=midnight-purple)](https://github.com/lettyviana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lettyviana&layout=compact&langs_count=4&theme=midnight-purple)](https://github.com/lettyviana/github-readme-stats)
 </div>
 
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
+- [x] [Lar Canino](https://lar-canino.vercel.app/)<br />
 - [x] [Meu primeiro portfólio em ReactJs/TypeScript e Sass](https://lettyviana-frontend-dev.vercel.app/)<br />
 - [x] [Faz Seu Flix (Challenge Aluraflix - Programa ONE)](https://faz-seu-flix.vercel.app/)<br />
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
@@ -45,13 +46,6 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 - [x] Especialização em Front-End com React pelo Programa Oracle Next Education.
 - [ ] Banco de Dados SQL do AlumniONE.
 - [ ] Formação Full Stack da Devaria.
-#
-
-<div align="center">
-    
-![Letty's GitHub stats](https://github-readme-stats.vercel.app/api?username=lettyviana&show_icons=true&theme=midnight-purple)
-</div>
-
 #
 
 ## 📲 **Contato:** 
