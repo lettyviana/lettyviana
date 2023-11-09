@@ -1,4 +1,4 @@
-## **Olá, terráqueos, eu sou a Letty!** 🛸
+## **Olá, eu sou a Letty!** 🛸
 
 Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/>
 Por influência do meu namorado, comecei a ter mais contato com programação. <br/>
