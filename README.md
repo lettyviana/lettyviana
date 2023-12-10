@@ -31,7 +31,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ## 🖱️ **O que já consegui desenvolver:**
-- [x] [Lar Canino](https://lar-canino.vercel.app/)<br />
+- [x] [Lar Canino (Front e Back (API pelo MongoDB))](https://lar-canino.vercel.app/)<br />
 - [x] [Meu primeiro portfólio em ReactJs/TypeScript e Sass](https://lettyviana-frontend-dev.vercel.app/)<br />
 - [x] [Faz Seu Flix (Challenge Aluraflix - Programa ONE)](https://faz-seu-flix.vercel.app/)<br />
 - [x] [Challenge Alurageek - Programa ONE](https://lettyviana.github.io/challenge-alurageek-one-t5/)<br />
@@ -43,7 +43,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 #
 
 ### 🎓 **Formações:**
-- [x] Especialização em Front-End com React pelo Programa Oracle Next Education.
+- [x] Especialização em Front-End com React pelo Programa Oracle Next Education (concluída em outubro de 2023).
 - [ ] Banco de Dados SQL do AlumniONE.
 - [ ] Formação Full Stack da Devaria.
 #
