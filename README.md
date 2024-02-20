@@ -1,10 +1,11 @@
-## **Olá, eu sou a Letty!** 🛸
+## **Olá, eu sou a Letty!** 👋
 
-Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/>
-Por influência do meu namorado, comecei a ter mais contato com programação. <br/>
-Já conclui a <a href="https://www.freecodecamp.org/certification/lettyviana/responsive-web-design">Certificação em Web Design Responsivo</a> do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. Conclui a especialização em <a href="https://cursos.alura.com.br/emprega-one/profile/letisviana">Front-End e ReactJs</a> do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa foi uma experiência incrível e uma baita porta de entrada, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
-Atualmente, estou fazendo a trilha do AlumniONE, que abrange o SQL com MySQL Server, Oracle Cloud Infrastructure e Python, DataScience e Oracle Analytics. 
-Estou fazendo também a formação Full-Stack da Escola de Programação Devaria, onde estou aprofundando ainda mais meus conhecimentos em JavaScript, TypeScript, NodeJs, ReactJs, NextJs, Nest, entre outros. <br/>
+Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/> 🎮
+Por influência de alguém muito importante para mim, comecei a ter mais contato com programação. <br/>
+Conclui a <a href="https://www.freecodecamp.org/certification/lettyviana/responsive-web-design">Certificação em Web Design Responsivo</a> do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. <br/>
+Conclui a especialização em <a href="https://cursos.alura.com.br/emprega-one/profile/letisviana">Front-End e ReactJs</a> do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa foi uma experiência incrível e uma baita porta de entrada, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
+Consegui concluir parte da trilha do AlumniONE, que abrange o SQL com MySQL Server, Oracle Cloud Infrastructure e Python. <br/> 
+Atualmente, estou tentando retomar a formação Full-Stack da Escola de Programação Devaria, onde aprofundei ainda mais meus conhecimentos em JavaScript, NodeJs, NextJs, e comecei a aprender TypeScript, Nest, Sass e React Native, por enquanto. <br/>
 Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas formações, bem como outros projetos pessoais.
 
 #
@@ -20,7 +21,7 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" alt="Sass" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" alt="MongoDB" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" alt="MySQL" align="center"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" height="60px" alt="NestJS" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="60px" alt="NestJS" align="center"/>
         
 </div><br />
 <div align="center">
@@ -44,7 +45,6 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 ### 🎓 **Formações:**
 - [x] Especialização em Front-End com React pelo Programa Oracle Next Education (concluída em outubro de 2023).
-- [ ] Banco de Dados SQL do AlumniONE.
 - [ ] Formação Full Stack da Devaria.
 #
 
