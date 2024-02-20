@@ -1,6 +1,6 @@
 ## **Olá, eu sou a Letty!** 👋
 
-Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. <br/> 🎮
+Sempre fui apaixonada por tecnologia, pelo mundo da computação e por jogos. 🎮 <br/> 
 Por influência de alguém muito importante para mim, comecei a ter mais contato com programação. <br/>
 Conclui a <a href="https://www.freecodecamp.org/certification/lettyviana/responsive-web-design">Certificação em Web Design Responsivo</a> do FreeCodeCamp, com a qual comecei a aprender o básico de HTML e CSS. <br/>
 Conclui a especialização em <a href="https://cursos.alura.com.br/emprega-one/profile/letisviana">Front-End e ReactJs</a> do programa ONE (Oracle Next Education) da Oracle com a Alura, onde comecei a desenvolver ainda mais profundamente essas e outras habilidades, como JavaScript, Node.js, React, bem como soft skills importantes, como Business Agility, Gestão de Tempo, Foco, Hábitos da Produtividade, entre outras de Desenvolvimento Pessoal e Empreendedorismo. O programa foi uma experiência incrível e uma baita porta de entrada, e me deixou ainda mais impressionada com tudo o que conseguimos fazer com algumas linhas de código. <br/>
