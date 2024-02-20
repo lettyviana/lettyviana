@@ -53,5 +53,5 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 <div align="center">
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaviana-trad-dev)
-[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://lettyviana-frontend-dev.vercel.app/)
+[![Meu portfólio](https://img.shields.io/badge/my_portfolio_website-purple?style=for-the-badge&logo=html5)](https://lettyviana-fullstack-dev.vercel.app/)
 </div>
