@@ -45,7 +45,11 @@ Perfil destinado ao compartilhamento dos projetos desenvolvidos ao longo dessas 
 
 ### 🎓 **Formações:**
 - [x] Especialização em Front-End com React pelo Programa Oracle Next Education (concluída em outubro de 2023).
-- [ ] Formação Full Stack da Devaria.
+- Formação Full Stack da Devaria - concluído até o momento:
+  - [x] Introdução ao Node.js;
+  - [x] Introdução ao Next.js;
+  - [x] Introdução ao React Native;
+
 #
 
 ## 📲 **Contato:** 
