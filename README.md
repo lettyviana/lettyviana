@@ -1,4 +1,4 @@
-## **Hi! I'm Letícia Viana or Letty Viana ** 👋
+# *Hi! I'm Letícia Viana or Letty Viana* 👋
 
 Passionate about technology and games. 🎮 <br /> 
 <strong>Freelance Translator (English-Brazilian Portuguese)</strong> and <strong>Full-Stack and Mobile Development Student</strong> <br />
