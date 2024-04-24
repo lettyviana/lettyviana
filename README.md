@@ -32,6 +32,7 @@ I aim to continue studying and to be able to contribute, in the future, with sol
 ## 🖱️ **My featured projects:**
 - [x] [Lar Canino (Full-Stack (MongoDB API))](https://lar-canino.vercel.app/)<br />
 - [x] [Faz Seu Flix (Challenge Aluraflix - ONE Program)](https://faz-seu-flix.vercel.app/)<br />
+- [x] [Your Secret Key Generator Spot](https://lettyviana.github.io/secret-key-generator-spot/)<br />
 
 #
 
@@ -47,7 +48,7 @@ I aim to continue studying and to be able to contribute, in the future, with sol
 
 ## 📲 **Contact me:** 
 
-<div>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&color=0077B5)](https://www.linkedin.com/in/leticiaviana-trad-dev)
 [![E-mail](https://img.shields.io/badge/email-e76b6b?style=for-the-badge&color=e76b6b)](mailto:letisviana@gmail.com)
