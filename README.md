@@ -42,7 +42,8 @@ I aim to continue studying and to be able to contribute, in the future, with sol
   - [x] Introduction to Node.js;
   - [x] Introduction to Next.js;
   - [x] Introduction to React Native;
-  - [ ] Introduction to Python;
+  - [x] Introduction to Python;
+  - [ ] Introduction to Vue.js;
 
 #
 
