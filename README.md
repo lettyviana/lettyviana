@@ -1,10 +1,10 @@
 # *Hi! I'm Letícia Viana or Letty Viana* 👋
 
 Passionate about technology and games. 🎮 <br /> 
-<strong>Freelance Translator (English-Brazilian Portuguese)</strong> and <strong>Full-Stack and Mobile Development Student</strong> <br />
-By specializing in <a href="https://cursos.alura.com.br/emprega-one/profile/lettyviana"><strong>Front-End and ReactJs</strong></a> with Oracle's ONE (Oracle Next Education) program with Alura, I began to have more contact and develop even more skills such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>React</strong>, as well as important soft skills such as <strong>Business Agility</strong>, <strong>Time Management</strong>, <strong>Focus</strong>, among others related to Personal Development and Entrepreneurship. <br />
-With Full-Stack training from the Devaria Programming School, I'm deepening my knowledge of <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and I've started learning <strong>NodeJs</strong>, <strong>NextJs</strong>, <strong>TypeScript</strong>, <strong>Nestjs</strong>, <strong>Sass</strong>, and <strong>React Native</strong>. I'm currently studying <strong>Python</strong>. <br />
-I aim to continue studying and to be able to contribute, in the future, with solutions that meet and exceed people's needs.
+<strong>Full-Stack Developer</strong> and <strong>Freelance Translator (English-Brazilian Portuguese)</strong> <br />
+By specializing in <a href="https://cursos.alura.com.br/emprega-one/profile/lettyviana"><strong>Front-End and ReactJs</strong></a> with Oracle's ONE (Oracle Next Education) program with Alura, I developed skills, such as <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>React</strong>, as well as important soft skills such as <strong>Business Agility</strong>, <strong>Time Management</strong>, <strong>Focus</strong>, among others related to Personal Development and Entrepreneurship. <br />
+By starting the Full-Stack training from the Devaria Programming School, I deepened my knowledge of <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and started learning <strong>NodeJs</strong>, <strong>NextJs</strong>, <strong>TypeScript</strong>, <strong>Nestjs</strong>, <strong>Sass</strong>, <strong>React Native</strong>, and <strong>Python</strong>. <br />
+I intend to continue studying and, in the future, contribute to solutions that meet and exceed people's needs.
 
 
 ## 👩‍💻 **What I'm studying:**
@@ -16,6 +16,7 @@ I aim to continue studying and to be able to contribute, in the future, with sol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="60px" alt="ReactJs" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60px" alt="TypeScript" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" alt="Sass" align="center"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60px" alt="Tailwind" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" alt="MongoDB" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="60px" alt="NestJS" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60px" alt="Python" align="center"/>
@@ -43,7 +44,6 @@ I aim to continue studying and to be able to contribute, in the future, with sol
   - [x] Introduction to Next.js;
   - [x] Introduction to React Native;
   - [x] Introduction to Python;
-  - [ ] Introduction to Vue.js;
 
 #
 
