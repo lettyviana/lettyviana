@@ -18,8 +18,6 @@ I intend to continue studying and, in the future, contribute to solutions that m
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" alt="Sass" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60px" alt="Tailwind" align="center"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" alt="MongoDB" align="center"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="60px" alt="NestJS" align="center"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60px" alt="Python" align="center"/>
 </div><br />
 
 <div align="center">
